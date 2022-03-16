@@ -10,7 +10,7 @@
     width: 100%;
     background-color: white;
     margin: auto;
-    background-image: url('/img/bg.jpg');
+    background-image: url('../img/bg.jpg');
     background-repeat: no-repeat;
     background-size: 70%;
     background-position: 400px;
@@ -69,7 +69,7 @@
     height: 30px;
 }
 #google{
-    background-image: url('/img/logo-google.png');
+    background-image: url('../img/logo-google.png');
     background-repeat: no-repeat;
     background-size: 26%;
     background-position: center;
